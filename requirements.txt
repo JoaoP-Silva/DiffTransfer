@@ -1,6 +1,9 @@
 tensorflow
+tensorflow_hub
+tensorflow_io[tensorflow]
 librosa
 pretty_midi
 numpy
 essentia
 frechet-audio-distance
+matplotlib
